@@ -1,17 +1,23 @@
-### Hi there 👋
-gabriel
+<h1 align="center"> Hello, I'm Gabriel Bins 👨‍💻 </h1>
 
-<!--
-**gabrielbins/gabrielbins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">  Tech Enthusiast | Civil Engineer </h3> <br>
 
-Here are some ideas to get you started:
+<p align="center"> 
+<a href="https://www.linkedin.com/in/gabrielbins/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🤔 About
+-  **Working :**  Web Development :computer: | Front-End
+-  **Learning :** Full-Stack :zap: | 	
+-  **Hobbies :** Games 🎮 | Music :headphones:
+-  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer juice :heart: 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 📊 Profile stats
+
+[![Gabriel Bins github stats](https://github-readme-stats.vercel.app/api?username=gabrielbins&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/gabrielbins/github-readme-stats)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
